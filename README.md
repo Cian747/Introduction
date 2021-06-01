@@ -1,6 +1,6 @@
-# {My favorite things}
-#### {Basic activites I do on a daily basis}, {01 June 2021}
-#### By **{Cian}**
+# FAVE
+#### Basic activites I do on a daily basis, 01 June 2021
+#### By **Cian**
 ## Description
 This website shows my basic activities and hobbies that participate on a regular basis.
 ## Setup/Installation Requirements
